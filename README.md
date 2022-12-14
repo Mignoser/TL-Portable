@@ -3,7 +3,7 @@
 
 ![TLauncher setting menu](https://tlauncher.org/img/tlauncher-2.0-settings-en.png)
 ## TLAUNCHER PORTABLE DOWNLOAD
-**You can download with [Google Drive](https://drive.google.com/file/d/16_3UASMmXdVPPrncosOtXDJFycB4KAqF/view?usp=share_link)**
+### You can download with [Google Drive](https://drive.google.com/file/d/16_3UASMmXdVPPrncosOtXDJFycB4KAqF/view?usp=share_link) ###
 
 Download with [Mediafire](https://www.mediafire.com/file/mcehhdenavyqykn/TL+Portable+by+MNSR006.rar/file) or [Mega](https://mega.nz/file/cdJB3bLQ#KxGKVT1CQrlzodLE-nKC7ohD_J7kNhx-glhA_26rMgc)
 
