@@ -9,6 +9,9 @@ Download with [Mediafire](https://www.mediafire.com/file/mcehhdenavyqykn/TL+Port
 
 **Unzip password: _mnsr006tl_**
 
+Direct download link (for IDM, FDM...): 
+```https://download1351.mediafire.com/jil6us72u4vg/mcehhdenavyqykn/TL+Portable+by+MNSR006.rar```
+
 ## HOW TO PLAY THIS VERSION OF TLAUNCHER?
 1. Download and unzip .rar file above
 2. Run `tlauncher.bat` file
